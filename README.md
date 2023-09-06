@@ -1,7 +1,8 @@
-# Wiki-test
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-commit
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
-commit 2
-
-commit 3
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
